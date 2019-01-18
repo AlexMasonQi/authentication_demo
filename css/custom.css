@@ -290,3 +290,10 @@ pre {
         text-align: center
     }
 }
+.list{
+    font-size: medium;
+    /* padding: 0; */
+}
+.content{
+    margin-left: 6px;
+}

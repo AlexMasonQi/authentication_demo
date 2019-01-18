@@ -57,3 +57,7 @@
     }
   
   })();
+
+  function changeColor(obj) {
+    $(obj).addClass("list-group-item-primary");
+  }
